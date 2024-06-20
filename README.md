@@ -1,8 +1,9 @@
 # Hi, Welcome! :sun_with_face:
 ## My name is Megan (she/her), thanks for visiting my page. 
 ### A little about me: 
-- I recently recieved a certificate in Front End development from Turing's School of Software and Design - an ACCET federally accredited program
-- I have a background in Biology ranging from fish hatcheries to immunology research 🔬🐟
+- I have a certificate in Front End development from Turing's School of Software and Design - an ACCET federally accredited program
+- I enjoy creating aesthetic and intuitive applications (with a touch of whimsy) that allow for an engaging user experience
+- My first passion was in Biology where I had roles ranging from fish hatcheries to immunology research 🔬🐟
 - Checkout my repositories to see what I've been working on! <br><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
