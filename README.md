@@ -1,8 +1,8 @@
 # Hi, Welcome! :sun_with_face:
 ## My name is Megan (she/her), thanks for visiting my page. 
 ### A little about me: 
-- I have a background in Biology ranging from fish hatcheries to immunology research 🔬🐟<br>
-- Currently, I'm studying Front End development at Turing's School of Software and Design <br>
+- I recently recieved a certificate in Front End development from Turing's School of Software and Design - an ACCET federally accredited program
+- I have a background in Biology ranging from fish hatcheries to immunology research 🔬🐟
 - Checkout my repositories to see what I've been working on! <br><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
