@@ -1,10 +1,11 @@
 # Hi, Welcome! :sun_with_face:
 ## My name is Megan (she/her), thanks for visiting my page. 
+## --> [My Portfolio](https://megan-portfolio-theta.vercel.app/)
 ### A little about me: 
 - I have a certificate in Front End development from Turing's School of Software and Design - an ACCET federally accredited program
 - I enjoy creating streamlined and engaging applications (with a touch of whimsy) 
 - My first passion is in Biology where I had roles ranging from fish hatchery biologist to immunology researcher 🔬🐟
-- Checkout my repositories to see what I've been working on! <br><br>
+- Checkout my repositories to see what I've been working on! <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
