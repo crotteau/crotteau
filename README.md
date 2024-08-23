@@ -1,6 +1,6 @@
 # Hi, Welcome! :sun_with_face:
 ## My name is Megan (she/her), thanks for visiting my page. 
-## --> [My Portfolio](https://megan-portfolio-theta.vercel.app/)
+##[My Portfolio](https://www.megancrotteau.com/)
 ### A little about me: 
 - I have a certificate in Front End development from Turing's School of Software and Design - an ACCET federally accredited program
 - I enjoy creating streamlined and engaging applications (with a touch of whimsy) 
