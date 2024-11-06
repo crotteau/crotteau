@@ -3,7 +3,6 @@
 ## [Portfolio](https://www.megancrotteau.com/)
 ### A little about me: 
 - I have a certificate in Front End development from Turing's School of Software and Design - an ACCET federally accredited program
-- I enjoy creating streamlined and engaging applications (with a touch of whimsy) 
 - My first passion is in Biology where I had roles ranging from fish hatchery biologist to immunology researcher 🔬🐟
 - Checkout my repositories to see what I've been working on! <br>
 <h3 align="left">Languages and Tools:</h3>
