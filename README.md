@@ -1,9 +1,9 @@
 # Hi, Welcome! :sun_with_face:
 ## My name is Megan (she/her), thanks for visiting my page. 
-## [Portfolio](https://www.megancrotteau.com/)
+
 ### A little about me: 
 - I have a certificate in Front End development from Turing's School of Software and Design - an ACCET federally accredited program
-- My first passion is in Biology where I had roles ranging from fish hatchery biologist to immunology researcher 🔬🐟
+- Biology was my first passion 🔬🐟 I’ve worked in roles ranging from fish hatchery biologist to immunology researcher
 - Checkout my repositories to see what I've been working on! <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
