@@ -2,8 +2,7 @@
 ## My name is Megan (she/her), thanks for visiting my page. 
 
 ### A little about me: 
-- My career started in Biology 🔬🐟 I’ve worked in roles ranging from fish hatchery biologist to immunology researcher
-- I have a certificate in Front End development from Turing's School of Software and Design - an ACCET federally accredited program
+- My career started out in Biology 🔬🐟 I’ve worked in roles ranging from fish hatchery biologist to immunology researcher
 - Checkout my repositories to see what I've been working on! <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
