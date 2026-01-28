@@ -1,9 +1,5 @@
 # Hi, Welcome! :sun_with_face:
-## My name is Megan (she/her), thanks for visiting my page. 
 
-### A little about me: 
-- My career started out in Biology 🔬🐟 I’ve worked in roles ranging from fish hatchery biologist to immunology researcher
-- Checkout my repositories to see what I've been working on! <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
